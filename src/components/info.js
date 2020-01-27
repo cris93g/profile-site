@@ -23,8 +23,8 @@ export default function info() {
 				the way they do.<br /> When I turned 24 I started developing a passion for code.<br /> I went Night and
 				Day eventually landing in a Bootcamp <br /> called DevMountain. A little bit after completing it I
 				wanted <br />to learn more I went through MIT's courses Online<br /> and going through all the courses
-				needed forBA <br /> of Computer Science. Now after many struggles of impostor syndrome,<br /> I have
-				overcome my fearsand am ready to embark on this journey and create great things.
+				needed for a BA <br /> of Computer Science. Now after many struggles<br /> of impostor syndrome,I have
+				overcome my fearsand am ready<br /> to embark on this journey and create great things.
 			</div>
 			<div className="h1 code mt-2 mb-3">{'}'}</div>
 			<div className="h1 mt-5">
