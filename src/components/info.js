@@ -22,9 +22,9 @@ export default function info() {
 				Ever since I can remember, I have been in love with figuring <br />how things work and why do they work
 				the way they do.<br /> When I turned 24 I started developing a passion for code.<br /> I went Night and
 				Day eventually landing in a Bootcamp <br /> called DevMountain. A little bit after completing it I
-				wanted to learn more I went through<br /> MIT's courses Online and going through all the courses needed
-				for<br /> BA of Computer Science. Now after many struggles of impostor syndrome,<br /> I have overcome
-				my fearsand am ready to embark on this journey and create great things.
+				wanted <br />to learn more I went through MIT's courses Online<br /> and going through all the courses
+				needed forBA <br /> of Computer Science. Now after many struggles of impostor syndrome,<br /> I have
+				overcome my fearsand am ready to embark on this journey and create great things.
 			</div>
 			<div className="h1 code mt-2 mb-3">{'}'}</div>
 			<div className="h1 mt-5">
