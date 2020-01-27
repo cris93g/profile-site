@@ -1,23 +1,20 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Space shooter
+  subtitle: Python|Pygame
+  Space shooting game where user earns points by shooting at aliens.
+  link: https://github.com/cris93g/space_game
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
+- title: Pac-Clone
+  subtitle: React|Axios|Express|NodeJs|CSS|Stripe||PostgreSQL
+  Ecommerce site where user can look,search, and purchase items.
+  link: https://github.com/cris93g/pac-clone
 
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
+- title: DineNow
+  subtitle: React|Axios|Express|NodeJs|CSS|Zomato API|MDBreact
+  Application that checks your gps location and finds the closest restaurants
+  link: https://github.com/cris93g/DineNow
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Roomers
+  subtitle: React|Redux|Mongo|Socket.io|AWS|EXPRESS|Google maps api|AUTH-0
+  Application built for users that are in need or that want to share their home with a roommate
+  link: https://github.com/barc-housing/Roomers
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application

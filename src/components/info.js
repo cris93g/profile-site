@@ -19,12 +19,12 @@ export default function info() {
 			</div>
 			<div className="h1 code mt-4 mb-3">async {'{'}</div>
 			<div className="text-muted mx-5 my-4 h3 text-justify info">
-				Ever since I can remember I have been in love with figuring how things work and why do they work the way
-				they do.When I turned 24 I started developing a passion for code. I went Night and Day looking
-				eventually landing in a bootcamp called DevMountain. A little bit after completing it I wanted to learn
-				more I went through MIT courses Online going through all the courses needed for BA of Computer
-				Science.Now after many struggles of impostor syndrome, I have overcome my fears and am ready to envark
-				in this journey and create great things.
+				Ever since I can remember, I have been in love with figuring how things work<br /> and why do they work
+				the way they do. When I turned 24 I started developing a passion for code.<br /> I went Night and Day
+				eventually landing in a Bootcamp called DevMountain. A little bit after completing it I wanted to learn
+				more <br />I went through MIT's courses Online and going through all the courses needed for BA of
+				Computer Science. Now after many struggles of impostor syndrome, I have overcome my fears<br /> and am
+				ready to embark on this journey and create great things.
 			</div>
 			<div className="h1 code mt-2 mb-3">{'}'}</div>
 			<div className="h1 mt-5">
