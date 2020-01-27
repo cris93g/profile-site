@@ -13,19 +13,11 @@ function Projects({ data }) {
 			<Appbar />
 			<Helmet>
 				<meta charSet="utf-8" />
-				<title>Projects | Sumanth</title>
+				<title>Projects |Cristian</title>
 			</Helmet>
 			<div className="row">
 				{projectList.map(({ node }) => {
-					return (
-						<Card
-							cardTitle={node.title}
-							cardSubtitle={node.subtitle}
-							cardSubText={node.cardSubText}
-							link={node.link}
-							key={node.id}
-						/>
-					);
+					return <Card cardTitle={node.title} cardSubtitle={node.subtitle} link={node.link} key={node.id} />;
 				})}
 			</div>
 		</div>
@@ -41,7 +33,6 @@ export const query = graphql`
 				node {
 					title
 					subtitle
-					subtext
 					link
 					id
 				}
