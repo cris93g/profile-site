@@ -1,19 +1,19 @@
 - title: Space shooter
-  subtitle: Space shooting game where user earns points by shooting at aliens.Python|Pygame
+  subtitle: Space shooting game where user earns points by shooting at aliens.  Python|Pygame
   link: https://github.com/cris93g/space_game
 
 - title: Pac-Clone
-  subtitle: Ecommerce site where user can look,search, and purchase items. React|Axios|Express|NodeJs|CSS|Stripe||PostgreSQL
+  subtitle: Ecommerce site where user can look,search, and purchase items.  React|Axios|Express|NodeJs|CSS|Stripe||PostgreSQL
 
   link: https://github.com/cris93g/pac-clone
 
 - title: DineNow
-  subtitle: Application that checks your gps location and finds the closest restaurants.React|Axios|Express|NodeJs|CSS|Zomato API|MDBreact 
+  subtitle: Application that checks your gps location and finds the closest restaurants.   React|Axios|Express|NodeJs|CSS|Zomato API|MDBreact 
 
   link: https://github.com/cris93g/DineNow
 
 - title: Roomers
-  subtitle: Application built for users that are in need or that want to share their home with a roommate.React|Redux|Mongo|Socket.io|AWS|EXPRESS|Google maps api|AUTH-0
+  subtitle: Application built for users that are in need or that want to share their home with a roommate.   React|Redux|Mongo|Socket.io|AWS|EXPRESS|Google maps api|AUTH-0
 
   link: https://github.com/barc-housing/Roomers
 
